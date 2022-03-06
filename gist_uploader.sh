@@ -1,6 +1,6 @@
 #!/bin/bash
 
-USAGE='Usage: '"$0"' "gist_ID" "commit message" "file(s)"'"\n\n"'"gist_ID" is in the gist URL: https://gist.github.com/USERNAME/gist_ID"'"\n"
+USAGE='Usage: '"$0"' "gist_ID" "commit message" "file(s)"'"\n\n"'"gist_ID" is in the gist URL: "https://gist.github.com/USERNAME/gist_ID"'"\n"
 
 parsing () {
     if [ $# -lt 3 ]; then
