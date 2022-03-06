@@ -4,7 +4,7 @@ Upload any file to your GitHub Gists (including binary files).
 ## Download
 ### GNU/Linux
 ```bash
-wget https://raw.githubusercontent.com/Sad-theFaceless/gist_uploader/main/gist_uploader.sh && chmod +x gist_uploader.sh.sh
+wget https://raw.githubusercontent.com/Sad-theFaceless/gist_uploader/main/gist_uploader.sh && chmod +x gist_uploader.sh
 ```
 
 ## How to use
