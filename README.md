@@ -7,7 +7,7 @@ Upload any file to your GitHub Gists (including binary files).
 wget https://raw.githubusercontent.com/Sad-theFaceless/gist_uploader/main/gist_uploader.sh && chmod +x gist_uploader.sh
 ```
 
-## How to use
+## Usage
 ```bash
 ./gist_uploader.sh "gist_ID" "commit message" "file(s)"
 ```
